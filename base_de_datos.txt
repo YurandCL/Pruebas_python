@@ -1,0 +1,16 @@
+Nro:1
+Producto:Aceite
+Cantidad:11
+Precio:10
+Nro:2
+Producto:Lechita
+Cantidad:48
+Precio:3
+Nro:3
+Producto:Detergente
+Cantidad:20
+Precio:4
+Nro:4
+Producto:Yogurt1Lt
+Cantidad:6
+Precio:6

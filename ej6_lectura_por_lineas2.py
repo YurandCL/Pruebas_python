@@ -1,0 +1,7 @@
+archivo=open("mi_texto.txt","r")
+print("Lectura Realizada Correcatamente:")
+primera_linea=archivo.readline()
+segunda_linea=archivo.readline()
+print("1ra linea:",primera_linea)
+print("2da linea:",segunda_linea)
+archivo.close()

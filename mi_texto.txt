@@ -1,0 +1,8 @@
+Coloma Linares Yurand Jorge
+Diseño de software e integracion de sistemas
+Av. Union 412-A
+yurand.coloma@tecsup.edu.pe
+esta linea es solo de prueba: "la eñe podra ser leida sin problema?" 
+si escribo palabras con tilde como por ejemplo confirmación o línea lo leera adecuadamente?"
+Primera linea adicional
+Segunda linea adicional
